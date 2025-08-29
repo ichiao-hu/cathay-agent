@@ -22,7 +22,7 @@
 - R5(7/2): [現成工具實戰](https://www.youtube.com/watch?v=THzH4Ob_AdU)
 - R6(7/16): [評估指標](https://www.youtube.com/watch?v=pACErvZtKpE)
 - 提案(7/30)
-- 成果發表(8/27)
+- 成果發表(8/27): [影片連結](https://www.youtube.com/watch?v=a6nFzefHel0)
 
 ## 方式
 - 課前: 研讀指定教材
